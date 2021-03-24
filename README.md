@@ -1,1 +1,2 @@
 # firstOne
+fajny program
